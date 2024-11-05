@@ -1,7 +1,8 @@
+
 # CS 421 Programming Assignment 1 - PseudoGit
 
 def greet_the_student():
-    return "Hello World"
+    return "12345678"  # Your student ID
 
-if(__name__ == "__main__"):
+if __name__ == "__main__":
     print(greet_the_student())
